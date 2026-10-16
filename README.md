@@ -8,14 +8,3 @@
 - กด Space เพื่อเพิ่ม Ball instance ระหว่างเล่น
 
 ข้อมูลนักศึกษา: `673380076-1 นายณภัทร โสดาดง`
-
-## เว็บเกมและ GitHub Pages
-
-หน้าเว็บและไฟล์ Web export อยู่ใน `docs/` เผยแพร่ repo นี้ที่ **Settings → Pages → Deploy from a branch → main → /docs**
-
-ไฟล์ `docs/game21.html` ต้องอยู่คู่กับไฟล์ `.js`, `.wasm`, `.pck`, `.png` และ worklet ที่อยู่ในโฟลเดอร์เดียวกัน
-
-## Export ใหม่
-
-เปิดโฟลเดอร์นี้ใน Godot 4.7 แล้วเลือก **Project → Export → Web → Export Project** เป็น Release ไปยัง `docs/game21.html`
-
